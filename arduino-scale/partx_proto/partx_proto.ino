@@ -99,11 +99,12 @@ void loop() {
     if (millis() > t + serialPrintInterval) {
       float i = LoadCell.getData();
       Serial.print("Load_cell output val: ");
-      if (i < 1.0) {
-        Serial.println(0); // Weight smaller than 0 means, there is no significant weight on the scale
-      } else {
-        Serial.println(weightUnit/i);
-      }
+      //if (i < 1.0) {
+      //  Serial.println(0); // Weight smaller than 0 means, there is no significant weight on the scale
+      //} else {
+      //  Serial.println(weightUnit/i);
+      //}
+      Serial.println(i);
       newDataReady = false;
       t = millis();
     }
