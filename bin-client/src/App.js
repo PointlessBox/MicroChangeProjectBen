@@ -6,8 +6,6 @@ import {startAchievementWatcher, startFileWatcher} from "./utils/FileWatcher";
 import StatisticChart from "./components/StatisticChart";
 import AchievementList from "./components/AchievementList";
 import {resetStatistics} from "./utils/utils";
-import {addDemoWeek} from "./utils/DemonstratorUtils";
-import AddDemoWeekButton from "./components/AddDemoWeekButton";
 
 const { TabPane } = Tabs;
 
@@ -65,7 +63,6 @@ function App() {
                 </TabPane>
             </Tabs>
             <Button onClick={resetStatistics} style={{margin:"auto",marginTop:"10px"}} type="primary" danger>Statistik zurücksetzen</Button>
-            <AddDemoWeekButton/>
         </div>
     );
 }
