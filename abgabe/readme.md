@@ -71,18 +71,18 @@ Um das ganze optisch abzurunden wurde auf der Rückseite ein kleines Loch für d
 Zuerst wird das Display auf der Frontstück des Mülleimers geschraubt. Hierfür sollte vorgebohrt werden, damit das Holz nicht bricht.
 </p>
 <p align="center">
-  <img width="400" height="300" src="../images/microChange/.front.jpeg">
+  <img width="400" height="300" src="../images/microChange/front.jpeg">
 </p>
 </p>
 <p align="center">
-  <img width="400" height="300" src="../images/microChange/.front_display.jpeg">
+  <img width="400" height="300" src="../images/microChange/front_display.jpeg">
 </p>
 Die restliche Elektronik wird in dem Kompartment vor der Trennwand untergebracht. Dabei sollte kein starker Zug auf den Kabeln sein.
 <p align="center">
-  <img width="250" height="400" src="/images/microChange/.arduino_eingebaut.jpeg">
+  <img width="250" height="400" src="/images/microChange/arduino_eingebaut.jpeg">
 </p>
 <p align="center">
-  <img width="250" height="400" src="/images/microChange/.elektronik_innen.jpeg">
+  <img width="250" height="400" src="/images/microChange/elektronik_innen.jpeg">
 </p>
 Nun können alle Holzwände zusammengesteckt und das Frontstück mit Holzleim gefestigt werden.
 
